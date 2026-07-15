@@ -2,10 +2,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4DB,100:0083B0&height=250&section=header&text=Gerson%20H.R.&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 </p>
 
-<h1 align="center">👋 ¡Hola! Soy Gerson H.R.</h1>
+<h1 align="center">👋 ¡Hola! Soy Gerson Huaripata Romero.</h1>
 
 <h3 align="center">
-💻 Full Stack Developer • 🎓 Estudiante Universitario • 🇵🇪 Perú
+💻 Programador web Junior r • 🎓 Estudiante de la Universidad Privada del Norte • 🇵🇪 Perú
 </h3>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 # 🚀 Sobre mí
 
-💻 Desarrollador Full Stack apasionado por el desarrollo web.
+💻 Desarrollador Full Stack jr. apasionado por el desarrollo web.
 
 🎓 Estudiante universitario.
 
@@ -114,16 +114,16 @@ Sistema web desarrollado con Laravel para la gestión clínica.
 <p align="center">
 
 <a href="https://github.com/gersonjhr1908-blip">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-gersonjhr1908--blip-181717?style=for-the-badge&logo=github"/>
 </a>
 
-</p>
+<a href="https://www.instagram.com/gerson.hr.19.03/">
+<img src="https://img.shields.io/badge/Instagram-@gerson.hr.19.03-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=gersonjhr1908-blip&label=Visitas&color=0e75b6&style=flat"/>
+<a href="https://discord.com/users/">
+<img src="https://img.shields.io/badge/Discord-L0v3r0%2347481-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
 
 </p>
 
