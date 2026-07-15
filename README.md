@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4DB,100:0083B0&height=250&section=header&text=Gerson%20Huaripata%20Romero&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 </p>
 
-<h1 align="center">👋 Hola, soy Gerson Huaripata Romero</h1>
+<h1 align="center">👋 Hola, soy Gerson </h1>
 
 <h3 align="center">
 💻 Desarrollador Web | Laravel • PHP • Java • C# • Python
