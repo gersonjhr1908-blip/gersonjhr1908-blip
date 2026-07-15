@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hola, soy Gerson Josue Huaripata Romero </h1>
+<h1 align="center">👋 Hola, soy Gerson  </h1>
 
 <h3 align="center">
 💻 Desarrollador Web | Laravel • PHP • Java • C# • Python
