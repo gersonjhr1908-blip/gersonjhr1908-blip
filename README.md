@@ -66,3 +66,92 @@ Hola 👋, soy **Gerson Huaripata Romero**, estudiante de la **Universidad Priva
 <img src="https://skillicons.dev/icons?i=laravel,php,mysql,html,css,bootstrap,js,java,cs,python,git,github,vscode,docker"/>
 
 </p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=gersonjhr1908-blip&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gersonjhr1908-blip&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=gersonjhr1908-blip&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribuciones
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gersonjhr1908-blip&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=gersonjhr1908-blip&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"/>
+
+</p>
+
+---
+
+# 🚀 Proyecto Destacado
+
+<p align="center">
+
+<a href="https://github.com/gersonjhr1908-blip/Clinica-Guadalupe">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=gersonjhr1908-blip&repo=Clinica-Guadalupe&theme=tokyonight&hide_border=true"/>
+
+</a>
+
+</p>
+
+---
+
+# 📫 Contacto
+
+<p align="center">
+
+<a href="https://github.com/gersonjhr1908-blip">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.instagram.com/gerson.hr.19.03/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://wa.me/51943893581">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+<a href="https://discord.com/users/TU_ID_DISCORD">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=gersonjhr1908-blip&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+
+</p>
