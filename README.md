@@ -121,8 +121,12 @@ Sistema web desarrollado con Laravel para la gestión clínica.
 <img src="https://img.shields.io/badge/Instagram-@gerson.hr.19.03-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://discord.com/users/">
-<img src="https://img.shields.io/badge/Discord-L0v3r0%2347481-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+<a href="https://wa.me/51943893581">
+<img src="https://img.shields.io/badge/WhatsApp-+51%20943%20893%20581-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+<a href="https://discord.com/users/TU_ID_DISCORD">
+<img src="https://img.shields.io/badge/Discord-L0v3r0-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
 </p>
