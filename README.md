@@ -2,6 +2,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4DB,100:0083B0&height=250&section=header&text=Gerson%20H.R.&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 </p>
 
+<p align="center">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnd6c3ZkZGdjamI1YmlvNHFwNXg5ZThuYWRpZXV4d3JxdWZmdjd2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HBDT4QSTpveU/giphy.gif" width="600"/>
+</p>
 <h1 align="center">👋 ¡Hola! Soy Gerson Huaripata Romero.</h1>
 
 <h3 align="center">
