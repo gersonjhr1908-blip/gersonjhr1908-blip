@@ -15,7 +15,7 @@
 
 ---
 
-
+<table>
 <tr>
 
 <td width="60%" valign="top">
@@ -56,7 +56,7 @@ Hola 👋, soy **Gerson Huaripata Romero**, tengo 21 años y estoy apasionado po
 </td>
 
 </tr>
-
+</table>
 
 
 ---
