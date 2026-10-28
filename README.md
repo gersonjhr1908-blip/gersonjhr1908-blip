@@ -22,7 +22,7 @@
 
 ## 👨‍💻 Sobre mí
 
-Hola 👋, soy **Gerson Huaripata Romero**, tengo 21 años y estoy apasionado por el desarrollo de software y analisis de datos.
+Hola 👋, soy **Gerson Huaripata Romero**, tengo 22 años y estoy apasionado por el desarrollo de software y analisis de datos.
 
 💻 Me especializo en el desarrollo de aplicaciones web utilizando **Laravel**, **PHP** y **MySQL**.
 
