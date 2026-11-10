@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&color=00C2FF&center=true&vCenter=true&width=850&lines=Bienvenido+a+mi+perfil+de+GitHub!;Laravel+Developer;PHP+•+C%23+•+Java+•+Python;Siempre+aprendiendo+nuevas+tecnologías🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&color=00C2FF&center=true&vCenter=true&width=850&lines=Bienvenido+a+mi+perfil+de+GitHub!;Desarrollador+Wewb;PHP-Angular+•+C%23+•+Java+•+Python;Siempre+aprendiendo+nuevas+tecnologías🚀"/>
 </p>
 
 
