@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hola, soy Gerson  </h1>
 
 <h3 align="center">
-💻 Desarrollador Web | Laravel • PHP • Java • C# • Python
+💻 Desarrollador Web | Backend y Frontend
 </h3>
 
 <p align="center">
@@ -22,17 +22,24 @@
 
 ## 👨‍💻 Sobre mí
 
-Hola 👋, soy **Gerson Huaripata Romero**, tengo 22 años y estoy apasionado por el desarrollo de software y analisis de datos.
+Hola 👋, soy **Gerson Huaripata Romero**, tengo 22 años y me apasionan el desarrollo de software y el análisis de datos.
 
-💻 Me especializo en el desarrollo de aplicaciones web utilizando **Laravel**, **PHP** y **MySQL**.
+💻 Desarrollo aplicaciones web con **Laravel**, **PHP** y **MySQL**. Actualmente estoy ampliando mis conocimientos en **Java avanzado**, **Spring Boot**, **Angular** y **TypeScript**.
 
-🏥 Actualmente desarrollo el proyecto **Clínica Guadalupe**, un sistema de gestión clínica.
+### 🚀 Proyectos
 
-### 🚀 Actualmente aprendiendo
+- **SICOPRI** — Proyecto que ya completé.
+- **Clínica Guadalupe** — Sistema de gestión clínica en desarrollo.
 
-- ⚡ Laravel Avanzado
-- 🌐 APIs REST
+🚀 Actualmente aprendiendo
+- ☕ Java avanzado
+- 🍃 Spring Boot
+- 🅰️ Angular y TypeScript
+- ⚡ Laravel avanzado
+- 🌐 Diseño y desarrollo de APIs REST
 - ⚛️ React
+- 🗄️ SQL y bases de datos relacionales
+- 🧪 Pruebas unitarias y de integración
 - 🐳 Docker
 
 ### 🌎 Idiomas
